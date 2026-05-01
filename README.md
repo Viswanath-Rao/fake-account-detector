@@ -5,7 +5,7 @@ Features--
 ML-based fake account detection
 Profile image analysis (face detection)
 Confidence score
-AI explanation
+AI-generated explanation
 Modern UI with animations
 
 Tech Stack--
@@ -14,18 +14,29 @@ Streamlit
 Scikit-learn
 OpenCV
 
-working--
-Run Locally
-pip install -r requirements.txt
+How it Works--
+Enter followers, following, and posts
+Upload a profile image (optional)
+Model analyzes behavior + image
+Get prediction with confidence and explanation
+
+Run Locally*
+pip install -r requirements.txt 
 streamlit run app.py
 
-## 📸 Screenshots
 
-### 🏠 Home Page
-![Home](home .png)
+## 📸 Screenshots
 
 ### ✅ Real Account Detection
 ![Real](real.png)
 
 ### 🚫 Fake Account Detection
 ![Fake](fake.png)
+
+Future Improvements--
+Larger and more realistic dataset
+Deep learning-based image analysis
+Integration with real social media APIs
+
+Author
+Viswanath Rao
