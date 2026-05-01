@@ -18,3 +18,14 @@ working--
 Run Locally
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](./home.png)
+
+### ✅ Real Account Detection
+![Real](real.png)
+
+### 🚫 Fake Account Detection
+![Fake](fake.png)
