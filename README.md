@@ -22,7 +22,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./home.png)
+![Home](home.png)
 
 ### ✅ Real Account Detection
 ![Real](real.png)
